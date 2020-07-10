@@ -1,0 +1,24 @@
+body{
+    background-color:hsl(212, 23%, 69%);
+}
+
+.content{
+    /* display:flex; */
+    height: 33%;
+    width: 50%;
+    margin: auto;
+    background-color:hsl(210, 46%, 95%) ;
+    border-radius: 2px;
+}
+.pic {
+    max-width: 40%;
+    max-height: 100%;
+}
+/* .pic img{
+    width: auto;
+    height: inherit;
+} */
+/* .text{
+    display: inline-block;
+    float: left;
+} */ */
